@@ -15,6 +15,16 @@ const quizData = [
     options: ["3", "4", "5", "6"],
     answer: "4",
   },
+   {
+    question: "How many colors are in the rainbow?",
+    options: ["7", "12", "9", "6"],
+    answer: "7",
+  },
+  {
+    question: "How many bones are in the human body?",
+    options: ["45", "100000", "200", "206"],
+    answer: "206",
+  },
 ];
 
 let currentQuestionIndex = 0;
