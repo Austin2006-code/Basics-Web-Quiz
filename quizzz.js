@@ -25,6 +25,11 @@ const quizData = [
     options: ["45", "100000", "200", "206"],
     answer: "206",
   },
+   {
+    question: "What food never spoils?",
+    options: ["tomatoes", "pineapples", "salad", "Honey"],
+    answer: "honey",
+  },
 ];
 
 let currentQuestionIndex = 0;
